@@ -1,6 +1,6 @@
 ---
 name: Website Bug Report
-about: Create a report to help us improve
+about: Help us improve our website with bug reports or suggestions
 
 ---
 
@@ -21,7 +21,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+ - OS: [e.g. iOS, Windows]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
